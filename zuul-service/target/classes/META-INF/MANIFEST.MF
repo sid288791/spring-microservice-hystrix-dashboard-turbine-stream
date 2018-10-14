@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: zuul-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: airadmin
+Implementation-Vendor-Id: com.zuul
+Build-Jdk: 1.8.0_101
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/zuul-service
+Created-By: Maven Integration for Eclipse
+
